@@ -10,8 +10,8 @@ docker run -d --name=netdata -p 19999:19999 netdata/netdata
 Access at: http://localhost:19999
 
 ## Screenshots
-![Netdata Dashboard](images/Screenshot%202025-08-15%20at%209.13.29PM.png)
-![Netdata Monitoring](images/Screenshot%202025-08-15%20at%209.14.23PM.png)
+![Netdata Dashboard](images/dashboard.png)
+![Netdata Monitoring](images/monitor.png)
 
 ## Features
 - CPU monitoring
